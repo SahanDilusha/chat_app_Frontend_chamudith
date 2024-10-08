@@ -38,5 +38,3 @@ const stylesheet = StyleSheet.create({
   },
 });
 
-
-aa
